@@ -13,3 +13,8 @@ This is Whatup Code
 		4.Attachements (Image , Audio , Video ) code	
 
 		5. Hiding the Last Screen
+
+
+		6. video feature has added
+
+		7.audio feature has added
